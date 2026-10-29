@@ -1,4 +1,4 @@
-const CACHE = "bike-theory-52b96efb75";
+const CACHE = "bike-theory-1bbfa29749";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
